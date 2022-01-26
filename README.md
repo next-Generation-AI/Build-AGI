@@ -1,2 +1,1 @@
-# GOAT-CTO
-GOAT CTO
+# 算法工程师
